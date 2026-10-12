@@ -3,8 +3,8 @@
  * (설치 안내서의 순서를 따라 채워주세요)
  */
 window.HANJUL_CONFIG = {
-  // 구글 Apps Script를 "웹 앱"으로 배포한 뒤 받은 주소 (https://script.google.com/macros/s/..../exec)
-  API_URL: '',
+  // 구글 Apps Script를 "웹 앱"으로 배포한 뒤 받은 주소
+  API_URL: 'https://script.google.com/macros/s/AKfycbxf3lO8u15_HKAsltz9aNVqQgykvd5ar-nVu2TMti-OMwLbkszdk7jxNXJy2j1gKFv3Eg/exec',
 
   // 사이트 하단·계약서에 들어가는 사업자 정보
   BUSINESS: {
