@@ -1,0 +1,17 @@
+{
+  "name": "한줄 — 줄눈 · 입주청소 · 인테리어",
+  "short_name": "한줄",
+  "description": "입주 준비, 한 줄이면 충분해요.",
+  "lang": "ko",
+  "start_url": "./index.html#/home",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFFFF",
+  "theme_color": "#21412F",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
